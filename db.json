@@ -1,0 +1,17 @@
+{
+  "sortes": [
+    { "id": 1, "sorte": "A coragem não é ausência do medo; é a persistência apesar do medo." },
+    { "id": 2, "sorte": "Estude incessantemente. O conhecimento é a única coisa que ninguém pode lhe tirar." },
+    { "id": 3, "sorte": "Não se turbe, o tempo cura tudo, trazendo consigo novas reflexões para construção de novos horizontes em nossas vidas."},
+    { "id": 4, "sorte": "Quando surgirem os obstáculos, mude a sua direção para alcançar a sua meta, mas não a decisão de chegar lá."},
+    { "id": 5, "sorte": "Não desista de um sonho apenas pelo tempo que levará para realizá-lo. O tempo passará de qualquer forma."},
+    { "id": 6, "sorte": "Deve-se aprender sempre, até mesmo com um inimigo."},
+    { "id": 7, "sorte": "Alague seu coração de esperanças, mas não deixe que ele se afogue nelas."},
+    { "id": 8, "sorte": "Não deixe que o ruído da opinião alheia impeça que você escute a sua voz interior."},
+    { "id": 9, "sorte": "Aquilo que se faz por amor está sempre além do bem e do mal."},
+    { "id": 10, "sorte": "Quem comete uma injustiça é sempre mais infeliz que o injustiçado."},
+    { "id": 11, "sorte": "Creia em si, mas não duvide sempre dos outros."},
+    { "id": 12, "sorte": "Não deixe dominar-se pelo passado, você vive no presente, caminhando para o futuro."},
+    { "id": 13, "sorte": "O verdadeiro amor é aquele que permanece sempre, se a ele damos tudo ou se lhe recusamos tudo."}
+  ]
+}
